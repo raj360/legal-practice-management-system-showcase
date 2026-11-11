@@ -1,6 +1,6 @@
 # LegitNexus / LPMS
 
-Public showcase for **LPMS** (Legal Practice Management System), the flagship product under the **LegitNexus** brand (LNX Technologies), delivered during work at Tek Juice.
+Public showcase for **LPMS** (Legal Practice Management System).
 
 LPMS is multi-tenant SaaS for law firms: quotes, cases, documents, communications, and UK conveyancing workflows.
 
