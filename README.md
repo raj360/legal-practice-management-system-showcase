@@ -1,4 +1,4 @@
-# LegitNexus / LPMS
+# LPMS
 
 Public showcase for **LPMS** (Legal Practice Management System).
 
